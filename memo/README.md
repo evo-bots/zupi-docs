@@ -5,6 +5,8 @@ Project ZuPi builds feature-rich robots by putting Raspberry Pi on
 With help of Pi, a lot more advanced features like computer vision,
 speech recognition become possible.
 
+![[zpi1]](bots/zpi1/images/zpi1.jpg)
+
 To learn more about Zumo robots and Raspberry Pi, read [Background](Background.md).
 
 ## About the Author
